@@ -1,9 +1,9 @@
 # FRAUDALENT-TRANSACTION
 # R - UNSUPERVISED, SUPERVISED, SEMI-SUPERVISED MACHINE LEARNING TECHNIQUES
 
-```
+`
 Worldwide losses from card fraud rose to $21 billion in 2015, up from about $8 billion in 2010. By 2020, that number is expected to reach $31 billion
-```
+`
 
 ## Problem:
 Fraud transaction are a headache for the banks, insurance people and the stores.
@@ -29,9 +29,9 @@ We have  around 401,000 records reported by some salesperson each dateset includ
 **UNKOWN VALUES** 
 We start by addressing the problem of unknown variable values. 
 There are essentially three alternatives: 
-1 remove the cases
-2 Fill in the unknowns using some strategy,
-3 Use tools that handle these types of values.  
+1. Remove the cases
+2. Fill in the unknowns using some strategy,
+3. Use tools that handle these types of values.  
 
 
 ### FEW TRANSACTONS
