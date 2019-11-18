@@ -12,7 +12,7 @@ Fraud transaction are a headache for the banks, insurance people and the stores.
 Every year out of 12 billion transactions nearly 10 million transactions are fraud.
 Fraud in USA for year 2008 was estimated at 500 million$. 
 
-## GOAL
+## Goal: 
 Using various data mining techniques we can detect the fraud transaction. Which may be helpful in reducing fraudalent transactions.
 
 ## Dataset:
@@ -24,21 +24,25 @@ We have  around 401,000 records reported by some salesperson each dateset includ
 - VAL
 - INSP
 
-### PROBLEM FACED
+### Problems faced
 
 **UNKOWN VALUES** 
 We start by addressing the problem of unknown variable values. 
 There are essentially three alternatives: 
 1. Remove the cases
-2. Fill in the unknowns using some strategy,
+2. Fill in the unknowns using some strategy. 
+  - Mean
+  - Medain 
+  - Mode
+  - Null values to zero
 3. Use tools that handle these types of values.  
 
 
-### FEW TRANSACTONS
+### Few Transactions
 There are products with very few transactions. 
 This is a problem because we need to use the information on these transactions to decide if any of them are unusual.   
 
-### DATA MINING TECHNIQUES
+### Data Mining Techniques
 
 Using data mining to provide guidance in the task of deciding which transaction reports should be considered for inspection as a result of strong suspicion of being fraudulent. 
 
@@ -59,7 +63,7 @@ Using data mining to provide guidance in the task of deciding which transaction 
 3 Semi supervised technique
 
 
-## conclusion
+## Conclusion
 We have seen that these three techniques(unsupervised, supervised and semi-supervised)  can tackle this problem from different perspectives with a limited amount of resources.
 
 Several real-world applications map into this general framework
